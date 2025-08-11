@@ -1,2 +1,2 @@
 # delta-demo
-creating demo file for git and github class
+creating demo file for git and github class.
